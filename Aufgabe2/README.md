@@ -3,9 +3,9 @@
 ## 1. Betrachten der Sourcecode Dateien
 FamilyTree.cs: 
 * die Variabel ret wird auf null gesetzt
-* als nächstes wird abgefragt ob die Person den Nachnamen Battenberg hat
+* als nächstes wird abgefragt, ob die Person den Nachnamen Battenberg hat
 * ist dies der Fall, so soll diese Person "returned" werden
-* als nächstes wird wird die Mutter der Person gesucht und ebenfalls "returned"
+* als nächstes wird wird die Mutter der Person gesucht und ebenfalls returned werden
 * zuletzt wird nach dem Vater der Person gesucht, welcher auch zurückgegeben wird
 Program.cs:
 * in die Variable root wird der Familienstammbaum gespeichert
@@ -25,8 +25,8 @@ Person ret = null;
 ```
 Screenshot von Debugger nach dem Ändern der Bedingung  
 ![ScreenshotZwei](screen2.PNG "Darstellung nach dem Debuggen")
-## 5. Komplexe Bedingung schreiben: Person finden die in einer Alterspanne liegt:
-Für die Umsetzung wird die in der Übungsaufgabe vorgeschlagene person.DateOfBirth und DateTime.Now.Year verwendet.
+## 5. Komplexe Bedingung schreiben: Person finden, die in einer Alterspanne liegt:
+Für die Umsetzung wird das in der Übungsaufgabe vorgeschlagene person.DateOfBirth.Year und DateTime.Now.Year verwendet.
 Fertige Implementierung:  
 ![ScreenshotDrei](screen3.PNG "Bedingung Altersspanne")  
 ![ScreenshotVier](screen4.PNG "Darstellung nach dem Debuggen")
