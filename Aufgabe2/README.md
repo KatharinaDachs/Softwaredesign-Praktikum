@@ -24,12 +24,12 @@ Person ret = null;
         return person;
 ```
 Screenshot von Debugger nach dem Ändern der Bedingung
-![ScreenshotZwei](screen2.png "Darstellung nach dem Debuggen")
+![ScreenshotZwei](screen2.PNG "Darstellung nach dem Debuggen")
 ## 5. Komplexe Bedingung schreiben: Person finden die in einer Alterspanne liegt:
 Für die Umsetzung wird die in der Übungsaufgabe vorgeschlagene person.DateOfBirth und DateTime.Now.Year verwendet.
 Fertige Implementierung:
-![ScreenshotDrei](screen3.png "Bedingung Altersspanne")
-![ScreenshotVier](screen4.png "Darstellung nach dem Debuggen")
+![ScreenshotDrei](screen3.PNG "Bedingung Altersspanne")
+![ScreenshotVier](screen4.PNG "Darstellung nach dem Debuggen")
 
 
     
