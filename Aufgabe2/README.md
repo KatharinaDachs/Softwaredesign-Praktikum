@@ -6,7 +6,7 @@ FamilyTree.cs:
 * als nächstes wird abgefragt, ob die Person den Nachnamen Battenberg hat
 * ist dies der Fall, so soll diese Person "returned" werden
 * als nächstes wird wird die Mutter der Person gesucht und ebenfalls returned werden
-* zuletzt wird nach dem Vater der Person gesucht, welcher auch zurückgegeben wird
+* zuletzt wird nach dem Vater der Person gesucht, welcher auch zurückgegeben wird  
 Program.cs:
 * in die Variable root wird der Familienstammbaum gespeichert
 * in die Variable found wird die gefundene Person eingetragen
