@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Katharina\\Documents\\MIB 4\\Softwaredesign\\Aufgaben\\Aufgabe1\\aufgabe1i1\\aufgabe1i1.csproj",
+      "projectUniqueName": "C:\\Users\\Katharina\\Documents\\MIB 4\\Softwaredesign\\SoftwaredesignPraktikum_K\\Softwaredesign-Praktikum\\Aufgabe1\\aufgabe1i1\\aufgabe1i1.csproj",
       "projectName": "aufgabe1i1",
-      "projectPath": "C:\\Users\\Katharina\\Documents\\MIB 4\\Softwaredesign\\Aufgaben\\Aufgabe1\\aufgabe1i1\\aufgabe1i1.csproj",
+      "projectPath": "C:\\Users\\Katharina\\Documents\\MIB 4\\Softwaredesign\\SoftwaredesignPraktikum_K\\Softwaredesign-Praktikum\\Aufgabe1\\aufgabe1i1\\aufgabe1i1.csproj",
       "packagesPath": "C:\\Users\\Katharina\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Katharina\\Documents\\MIB 4\\Softwaredesign\\Aufgaben\\Aufgabe1\\aufgabe1i1\\obj\\",
+      "outputPath": "C:\\Users\\Katharina\\Documents\\MIB 4\\Softwaredesign\\SoftwaredesignPraktikum_K\\Softwaredesign-Praktikum\\Aufgabe1\\aufgabe1i1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

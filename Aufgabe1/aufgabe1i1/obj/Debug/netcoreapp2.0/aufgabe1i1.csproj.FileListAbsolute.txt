@@ -8,3 +8,13 @@ C:\Users\Katharina\Documents\MIB 4\Softwaredesign\Aufgaben\Aufgabe1\aufgabe1i1\o
 C:\Users\Katharina\Documents\MIB 4\Softwaredesign\Aufgaben\Aufgabe1\aufgabe1i1\obj\Debug\netcoreapp2.0\aufgabe1i1.AssemblyInfo.cs
 C:\Users\Katharina\Documents\MIB 4\Softwaredesign\Aufgaben\Aufgabe1\aufgabe1i1\obj\Debug\netcoreapp2.0\aufgabe1i1.dll
 C:\Users\Katharina\Documents\MIB 4\Softwaredesign\Aufgaben\Aufgabe1\aufgabe1i1\obj\Debug\netcoreapp2.0\aufgabe1i1.pdb
+C:\Users\Katharina\Documents\MIB 4\Softwaredesign\SoftwaredesignPraktikum_K\Softwaredesign-Praktikum\Aufgabe1\aufgabe1i1\bin\Debug\netcoreapp2.0\aufgabe1i1.deps.json
+C:\Users\Katharina\Documents\MIB 4\Softwaredesign\SoftwaredesignPraktikum_K\Softwaredesign-Praktikum\Aufgabe1\aufgabe1i1\bin\Debug\netcoreapp2.0\aufgabe1i1.runtimeconfig.json
+C:\Users\Katharina\Documents\MIB 4\Softwaredesign\SoftwaredesignPraktikum_K\Softwaredesign-Praktikum\Aufgabe1\aufgabe1i1\bin\Debug\netcoreapp2.0\aufgabe1i1.runtimeconfig.dev.json
+C:\Users\Katharina\Documents\MIB 4\Softwaredesign\SoftwaredesignPraktikum_K\Softwaredesign-Praktikum\Aufgabe1\aufgabe1i1\bin\Debug\netcoreapp2.0\aufgabe1i1.dll
+C:\Users\Katharina\Documents\MIB 4\Softwaredesign\SoftwaredesignPraktikum_K\Softwaredesign-Praktikum\Aufgabe1\aufgabe1i1\bin\Debug\netcoreapp2.0\aufgabe1i1.pdb
+C:\Users\Katharina\Documents\MIB 4\Softwaredesign\SoftwaredesignPraktikum_K\Softwaredesign-Praktikum\Aufgabe1\aufgabe1i1\obj\Debug\netcoreapp2.0\aufgabe1i1.csproj.CoreCompileInputs.cache
+C:\Users\Katharina\Documents\MIB 4\Softwaredesign\SoftwaredesignPraktikum_K\Softwaredesign-Praktikum\Aufgabe1\aufgabe1i1\obj\Debug\netcoreapp2.0\aufgabe1i1.AssemblyInfoInputs.cache
+C:\Users\Katharina\Documents\MIB 4\Softwaredesign\SoftwaredesignPraktikum_K\Softwaredesign-Praktikum\Aufgabe1\aufgabe1i1\obj\Debug\netcoreapp2.0\aufgabe1i1.AssemblyInfo.cs
+C:\Users\Katharina\Documents\MIB 4\Softwaredesign\SoftwaredesignPraktikum_K\Softwaredesign-Praktikum\Aufgabe1\aufgabe1i1\obj\Debug\netcoreapp2.0\aufgabe1i1.dll
+C:\Users\Katharina\Documents\MIB 4\Softwaredesign\SoftwaredesignPraktikum_K\Softwaredesign-Praktikum\Aufgabe1\aufgabe1i1\obj\Debug\netcoreapp2.0\aufgabe1i1.pdb
