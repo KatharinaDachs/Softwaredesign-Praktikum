@@ -12,7 +12,7 @@ namespace Aufgabe3
             Console.WriteLine(ConvertToDecimalFromBase(6, 321));
         }
 
-        //Teil 1
+        //Part 1
         public static int ConvertDecimalToHexal(int dec){
             string hexalRest = "";
             if(dec >= 0 && dec <= 1023){
@@ -24,7 +24,7 @@ namespace Aufgabe3
             return Convert.ToInt32(hexalRest);
         }
 
-        //Teil 2
+        //Part 2
        public static int ConvertHexalToDezimal(int hexal){
             string hexalString = ""  + hexal;
             var hexalEinzeln = hexalString.ToCharArray();
@@ -37,7 +37,7 @@ namespace Aufgabe3
             return deci;
         }
 
-        //Teile 3
+        //Part 3
         public static int ConvertToBaseFromDecimal(int toBase, int dec){
             string baseRest = "";
             if(dec <= 0 && dec >= 1023){
@@ -49,7 +49,7 @@ namespace Aufgabe3
             return Convert.ToInt32(baseRest);
         }
 
-        //Teil 4
+        //Part 4
         public static int ConvertToDecimalFromBase(int fromBase, int number){
             string baseString = ""  + number;
             var baseEinzeln = baseString.ToCharArray();
@@ -62,7 +62,7 @@ namespace Aufgabe3
             return decimalConverted;
         }
 
-        //Teil 5
+        //Final Part 5
 
         public static int ConvertNumberToBaseFromBase(int number, int toBase, int fromBase){
             int convertedBase= 0;
