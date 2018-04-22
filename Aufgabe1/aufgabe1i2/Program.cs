@@ -41,7 +41,7 @@ namespace aufgabe1i2
 
         static void Main(string[] args)
         {
-            // Verse werden geschrieben
+            // Verse are written
             string[] zeile = new string[RandomSubject.Length];
             for (int i = 0; i < RandomSubject.Length; i++)
             {
@@ -61,21 +61,19 @@ namespace aufgabe1i2
         public static void GetVerse()
         {
             //random subject
-            // Random wort wird vom Random Array, der oben erzeugt wurde,ausgewählt. Hierbei wird mit dem Wort im Index 0 begonnen und bei erneutem 
-            // aufrufen Index 1, 2, 3, etc eingesetzt. 
-            string sub = RandomSubject[subjectindex];
+            Sub = RandomSubject[subjectindex];
             subjectindex += 1;
-            Sub = sub;
+            
 
             // random verb
-            string ver = RandomVerb[verbindex];
+            Verb = RandomVerb[verbindex];
             verbindex += 1;
-            Verb = ver;
+            
 
             //random object
-            string obj = RandomObject[objectindex];
+            Obj = RandomObject[objectindex];
             objectindex += 1;
-            Obj = obj;
+            
 
         }
     }
