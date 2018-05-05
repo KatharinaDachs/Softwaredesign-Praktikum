@@ -24,14 +24,22 @@ namespace L04_Tree
             child1.RemoveChild(grand12);
 
             root.PrintTree();  
+
+            foreach (var element in root.Found("grand111"))
+            {
+                Console.WriteLine(element);
+}
         }
     }
-
+    // Für genauere Erklärung : Bene fragen
+    // Zusätzliche Aufgabe: Find("abc") Liste mit KNoten mit Inhalt "abc"
 
     public class Tree<T>
     {
         public T Data;
         public List<Tree<T>> Children = new List<Tree<T>>();
+
+        public List<Tree<T>> FIND = new List<Tree<T>>();
 
         public Tree<T> CreateNode(T data)
         {
@@ -58,6 +66,28 @@ namespace L04_Tree
 
             foreach(Tree<T> child in Children)
                 child.PrintTree(add + "*");
+        }
+
+        public List<Tree<T>> Found(T search, List<Tree<T>> Nodes = null)
+        {
+            if (Nodes == null)
+            {
+                Nodes = new List<Tree<T>>();
+            }
+            if (Data.Equals(search))
+            {
+                Nodes.Add(this);
+            }
+            foreach (Tree<T> child in Children)
+            {
+                child.Found(search, Nodes);
+            }
+            return Nodes;
+        }
+        
+        public override string ToString()
+        {
+            return Data.ToString();
         }
     }
 }
