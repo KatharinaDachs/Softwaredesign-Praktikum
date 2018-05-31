@@ -4,7 +4,7 @@ using System.Collections.Generic;
 namespace DesPatternSingleton
 {
 
-    public class Person // hier ist ein Kostruktor definiert wie würde er aber aussehen?: gleicher Name wie die klasse
+    public class Person
     {
         public string Name;
         public int Age;
