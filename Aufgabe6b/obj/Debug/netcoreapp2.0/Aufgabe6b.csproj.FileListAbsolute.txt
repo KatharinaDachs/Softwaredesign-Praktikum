@@ -1,0 +1,11 @@
+C:\Users\Katharina\Documents\MIB 4\Softwaredesign\SoftwaredesignPraktikum_K\Softwaredesign-Praktikum\Aufgabe6b\bin\Debug\netcoreapp2.0\Aufgabe6b.deps.json
+C:\Users\Katharina\Documents\MIB 4\Softwaredesign\SoftwaredesignPraktikum_K\Softwaredesign-Praktikum\Aufgabe6b\bin\Debug\netcoreapp2.0\Aufgabe6b.runtimeconfig.json
+C:\Users\Katharina\Documents\MIB 4\Softwaredesign\SoftwaredesignPraktikum_K\Softwaredesign-Praktikum\Aufgabe6b\bin\Debug\netcoreapp2.0\Aufgabe6b.runtimeconfig.dev.json
+C:\Users\Katharina\Documents\MIB 4\Softwaredesign\SoftwaredesignPraktikum_K\Softwaredesign-Praktikum\Aufgabe6b\bin\Debug\netcoreapp2.0\Aufgabe6b.dll
+C:\Users\Katharina\Documents\MIB 4\Softwaredesign\SoftwaredesignPraktikum_K\Softwaredesign-Praktikum\Aufgabe6b\bin\Debug\netcoreapp2.0\Aufgabe6b.pdb
+C:\Users\Katharina\Documents\MIB 4\Softwaredesign\SoftwaredesignPraktikum_K\Softwaredesign-Praktikum\Aufgabe6b\obj\Debug\netcoreapp2.0\Aufgabe6b.csproj.CoreCompileInputs.cache
+C:\Users\Katharina\Documents\MIB 4\Softwaredesign\SoftwaredesignPraktikum_K\Softwaredesign-Praktikum\Aufgabe6b\obj\Debug\netcoreapp2.0\Aufgabe6b.AssemblyInfoInputs.cache
+C:\Users\Katharina\Documents\MIB 4\Softwaredesign\SoftwaredesignPraktikum_K\Softwaredesign-Praktikum\Aufgabe6b\obj\Debug\netcoreapp2.0\Aufgabe6b.AssemblyInfo.cs
+C:\Users\Katharina\Documents\MIB 4\Softwaredesign\SoftwaredesignPraktikum_K\Softwaredesign-Praktikum\Aufgabe6b\obj\Debug\netcoreapp2.0\Aufgabe6b.dll
+C:\Users\Katharina\Documents\MIB 4\Softwaredesign\SoftwaredesignPraktikum_K\Softwaredesign-Praktikum\Aufgabe6b\obj\Debug\netcoreapp2.0\Aufgabe6b.pdb
+C:\Users\Katharina\Documents\MIB 4\Softwaredesign\SoftwaredesignPraktikum_K\Softwaredesign-Praktikum\Aufgabe6b\obj\Debug\netcoreapp2.0\Aufgabe6b.csprojResolveAssemblyReference.cache
