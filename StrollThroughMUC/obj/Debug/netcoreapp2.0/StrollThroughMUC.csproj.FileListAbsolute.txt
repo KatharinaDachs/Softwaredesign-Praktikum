@@ -1,0 +1,11 @@
+C:\Users\Katharina\Documents\MIB 4\Softwaredesign\SoftwaredesignPraktikum_K\Softwaredesign-Praktikum\StrollThroughMUC\bin\Debug\netcoreapp2.0\StrollThroughMUC.deps.json
+C:\Users\Katharina\Documents\MIB 4\Softwaredesign\SoftwaredesignPraktikum_K\Softwaredesign-Praktikum\StrollThroughMUC\bin\Debug\netcoreapp2.0\StrollThroughMUC.runtimeconfig.json
+C:\Users\Katharina\Documents\MIB 4\Softwaredesign\SoftwaredesignPraktikum_K\Softwaredesign-Praktikum\StrollThroughMUC\bin\Debug\netcoreapp2.0\StrollThroughMUC.runtimeconfig.dev.json
+C:\Users\Katharina\Documents\MIB 4\Softwaredesign\SoftwaredesignPraktikum_K\Softwaredesign-Praktikum\StrollThroughMUC\bin\Debug\netcoreapp2.0\StrollThroughMUC.dll
+C:\Users\Katharina\Documents\MIB 4\Softwaredesign\SoftwaredesignPraktikum_K\Softwaredesign-Praktikum\StrollThroughMUC\bin\Debug\netcoreapp2.0\StrollThroughMUC.pdb
+C:\Users\Katharina\Documents\MIB 4\Softwaredesign\SoftwaredesignPraktikum_K\Softwaredesign-Praktikum\StrollThroughMUC\obj\Debug\netcoreapp2.0\StrollThroughMUC.csprojResolveAssemblyReference.cache
+C:\Users\Katharina\Documents\MIB 4\Softwaredesign\SoftwaredesignPraktikum_K\Softwaredesign-Praktikum\StrollThroughMUC\obj\Debug\netcoreapp2.0\StrollThroughMUC.csproj.CoreCompileInputs.cache
+C:\Users\Katharina\Documents\MIB 4\Softwaredesign\SoftwaredesignPraktikum_K\Softwaredesign-Praktikum\StrollThroughMUC\obj\Debug\netcoreapp2.0\StrollThroughMUC.AssemblyInfoInputs.cache
+C:\Users\Katharina\Documents\MIB 4\Softwaredesign\SoftwaredesignPraktikum_K\Softwaredesign-Praktikum\StrollThroughMUC\obj\Debug\netcoreapp2.0\StrollThroughMUC.AssemblyInfo.cs
+C:\Users\Katharina\Documents\MIB 4\Softwaredesign\SoftwaredesignPraktikum_K\Softwaredesign-Praktikum\StrollThroughMUC\obj\Debug\netcoreapp2.0\StrollThroughMUC.dll
+C:\Users\Katharina\Documents\MIB 4\Softwaredesign\SoftwaredesignPraktikum_K\Softwaredesign-Praktikum\StrollThroughMUC\obj\Debug\netcoreapp2.0\StrollThroughMUC.pdb
