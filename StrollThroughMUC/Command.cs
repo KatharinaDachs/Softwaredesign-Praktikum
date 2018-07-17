@@ -21,8 +21,12 @@ namespace StrollThroughMUC
             {
                 case("c"):
                 Console.WriteLine("Die Ausdrücke der Interationsmöglichkeiten heißen:");
-                Console.WriteLine("n = North, e = East, w = West, s = South");
-                Console.WriteLine("l = look, t <item> = take, c = command, q = quit, t = inventory, p <item> = drop, look=Description of character, a<character> = attack");
+                Console.WriteLine("JUMP TO:   n=North |  e=East | w=West | s=South | l=Description of Room");
+                Console.WriteLine("ITEM INTERACTION:  take <item>=take Item from the Place | t=inventory/your list of items | drop <item>=drop an Item of your inventory | swap=swap Item");
+                Console.WriteLine("CHARACTER INTERACTION:  look=Selfdescription of Character | look=Description of character | a=attack Character | speak=speak with character");
+                Console.WriteLine("NICE TO KNOW:  q=quit Game | c=show CommandInput possibilities");
+                Console.WriteLine("Lasset die Spiele beginnen");
+                Console.WriteLine("");
                 Run();
                 break;
 
