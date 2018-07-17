@@ -6,8 +6,7 @@ namespace StrollThroughMUC
 {
     public class SmartEnemy : Player
     {
-        public int Healthpoints;
-        //public List <SmartEnemy> SmartEnemyList = new List <SmartEnemy>(); 
+        public int Healthpoints; 
         public static void DancePlayer()
         {
             Random Nr = new Random();

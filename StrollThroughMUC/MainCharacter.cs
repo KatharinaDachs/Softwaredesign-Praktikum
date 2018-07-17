@@ -56,11 +56,11 @@ namespace StrollThroughMUC
             {
                 Current.CurrentPlayer();
                 Console.WriteLine("Gib den Namen des Charakters ein, mit dem du Item tauschen möchtest");
-                string ItemNameInput = Console.ReadLine();
+                string CharacterNameInput = Console.ReadLine();
                 bool PlayerNameCheck = false;
                 for(int i = 0; i < Munich.CurrentPlace.PlayersInPlace.Count; i++)
                 {
-                    if(Munich.CurrentPlace.PlayersInPlace[i].Name == ItemNameInput && Munich.CurrentPlace.PlayersInPlace[i].PlayerInventory.Count != 0)
+                    if(Munich.CurrentPlace.PlayersInPlace[i].Name == CharacterNameInput && Munich.CurrentPlace.PlayersInPlace[i].PlayerInventory.Count != 0)
                     {
                         PlayerNameCheck = true;
                         Console.WriteLine("Player " + Munich.CurrentPlace.PlayersInPlace[i].Name + " hat folgende Items:");
@@ -120,11 +120,11 @@ namespace StrollThroughMUC
         {
             Current.CurrentPlayer();
             Console.WriteLine("Gib den Namen des Charakters ein, mit dem du reden möchtest");
-            string ItemNameInput = Console.ReadLine();
+            string CharacterNameInput = Console.ReadLine();
             bool SpeakCheck = false;
             for(int i = 0; i < Munich.CurrentPlace.PlayersInPlace.Count; i++)
             {
-                if(Munich.CurrentPlace.PlayersInPlace[i].Name == ItemNameInput)
+                if(Munich.CurrentPlace.PlayersInPlace[i].Name == CharacterNameInput)
                 {
                     SpeakCheck = true;
                     Console.WriteLine("Heyyyy wie gehts? Lange nicht mehr gesehen!");
@@ -155,18 +155,18 @@ namespace StrollThroughMUC
         {
             Current.CurrentPlayer();
             Console.WriteLine("Gib den Namen des Charakters ein, den du attackieren möchtest");
-            string ItemNameInput = Console.ReadLine();
+            string CharacterNameInput = Console.ReadLine();
             for(int i = 0; i < Munich.CurrentPlace.PlayersInPlace.Count; i++)
             {
-                if(Munich.CurrentPlace.PlayersInPlace[i].Name == ItemNameInput )
+                if(Munich.CurrentPlace.PlayersInPlace[i].Name == CharacterNameInput )
                 {
-                    if (ItemNameInput == "Pati")
+                    if (CharacterNameInput == "Pati")
                     {
                         Console.WriteLine("Sich selbst attackieren ist nicht sehr schlau...");
                         Game.Run();
                     }else{
                         Munich.AllEvil.SmartEnemyList.ForEach(delegate(SmartEnemy Enemy ){
-                            if(Enemy.Name == ItemNameInput)
+                            if(Enemy.Name == CharacterNameInput)
                             {
                                 Enemy.Healthpoints -= 1;
                                 if(Enemy.Healthpoints == 0)

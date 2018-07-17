@@ -14,16 +14,16 @@ namespace StrollThroughMUC
         {
             Current.CurrentPlayer();
             Console.WriteLine("Gib den Namen des Charakters ein, zu dem du die Beschreibung haben möchtest");
-            string ItemNameInput = Console.ReadLine();
-            bool checkItemName = false;
+            string PlayerNameInput = Console.ReadLine();
+            bool checkPlayerName = false;
             for(int i = 0; i < Munich.CurrentPlace.PlayersInPlace.Count; i++)
             {
-                if(Munich.CurrentPlace.PlayersInPlace[i].Name == ItemNameInput)
+                if(Munich.CurrentPlace.PlayersInPlace[i].Name == PlayerNameInput)
                 {
                     Console.WriteLine(Munich.CurrentPlace.PlayersInPlace[i].Selfdescription);
-                    checkItemName = true;
+                    checkPlayerName = true;
                 }
-                if (checkItemName == false)
+                if (checkPlayerName == false)
                 {
                 Console.WriteLine("Heyyy.. Ich hab dir doch grade gesagt welche Charaktere im Raum sind! Versuch es nochmal *look*" );
                 }
